@@ -1,0 +1,27 @@
+body{
+    background-color: azure; 
+    }
+.photoperfil{
+    border-radius: 50%;
+    margin: 0;
+    border: 3px solid #000;
+}
+
+#title{
+    font-size: 50px;
+    color: black;
+    margin: 0;
+}
+
+.aboutme{
+    font-size: 22px;
+    font-style: italic;
+    color: black;
+    padding: 10px;
+    border: 3px solid #000;
+    margin: 0;
+    }
+.post_title{
+    font-size: 20px;
+    margin: 0;
+}
